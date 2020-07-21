@@ -1,0 +1,29 @@
+body{
+  background:#404040;
+  color:#f6f6f6;
+}
+.navbar{
+  margin-bottom:0;
+}
+h1, h2, h3{
+  font-weight: bold;
+  font-size: 1.1em;
+}
+p{
+  font-size:1.1em;
+}
+.jumbotron{
+  background:#27A955;
+  text-align: center;
+}
+.jumbotron, p{
+  font-size:1.0em;
+}
+
+.serviceBlurb{
+  text-align: center;
+}
+.glyphicon{
+  font-size: 80px;
+  text-shadow: 0 0 5px blue;
+}
